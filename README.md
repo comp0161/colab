@@ -15,5 +15,4 @@ piano music and use it to train a Transformer-based language model to generate m
     * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0161/colab/blob/main/COMP0161_lab2.ipynb)
 * **Lab 3: Synthesis & Effects** (2 Mar 2023)
     * [dev notebook](https://colab.research.google.com/drive/1x23bALrzIQeRxzAyyfcz44b3vdyLlK9b)
-    * (colab link coming soon)
-
+    * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0161/colab/blob/main/COMP0161_lab3.ipynb)

@@ -7,12 +7,12 @@ Work in progress tutorial notebooks to be run in Google Colab.
 In tutorial lab sessions 1–3, we build a text-encoded dataset of classical
 piano music and use it to train a Transformer-based language model to generate music in a similar style.
 
-* **Lab 1: Data** (2 Feb 2023)
+* **Lab 1: Data** (1 Feb 2024)
     * [dev notebook](https://colab.research.google.com/drive/1vkN__9VWqz4SaEgQDDvWEWqKANHk9wnl)
     * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0161/colab/blob/main/COMP0161_lab1.ipynb)
-* **Lab 2: Learning** (23 Feb 2023)
+* **Lab 2: Learning** (22 Feb 2024)
     * [dev notebook](https://colab.research.google.com/drive/1tfWhkgOYNF-KGZZu4Fc-nrBs1NEgC1m7)
     * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0161/colab/blob/main/COMP0161_lab2.ipynb)
-* **Lab 3: Synthesis & Effects** (2 Mar 2023)
+* **Lab 3: Synthesis & Effects** (29 Feb 2024)
     * [dev notebook](https://colab.research.google.com/drive/1x23bALrzIQeRxzAyyfcz44b3vdyLlK9b)
     * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/comp0161/colab/blob/main/COMP0161_lab3.ipynb)
